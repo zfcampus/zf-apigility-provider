@@ -3,7 +3,7 @@ ZF Apigility Provider
 
 > ## Repository abandoned 2019-12-31
 >
-> This repository has moved to laminas-api-tools/api-tools-provider.
+> This repository has moved to [laminas-api-tools/api-tools-provider](https://github.com/laminas-api-tools/api-tools-provider).
 
 [![Build Status](https://secure.travis-ci.org/zfcampus/zf-apigility-provider.svg?branch=master)](https://secure.travis-ci.org/zfcampus/zf-apigility-provider)
 
